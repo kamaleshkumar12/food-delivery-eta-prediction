@@ -1,0 +1,22 @@
+{
+  "best_params": {
+    "objective": "regression",
+    "num_leaves": 29,
+    "min_child_samples": 79,
+    "subsample": 0.9245791522600724,
+    "colsample_bytree": 0.9910771559793374,
+    "reg_lambda": 0.3231878029936279,
+    "reg_alpha": 5.6355327241983275
+  },
+  "best_iter": 330,
+  "n_final": 379,
+  "interval_q10": -4.738110344946502,
+  "interval_q90": 4.8556599343827616,
+  "test": {
+    "MAE": 3.117,
+    "RMSE": 3.888,
+    "R2": 0.83,
+    "within5": 81.58,
+    "within10": 98.786
+  }
+}
